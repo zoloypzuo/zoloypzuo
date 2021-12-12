@@ -11,12 +11,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=tru
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoloypzuo&show_icons=tru
 e&locale=en&layout=compact&theme=chartreuse-dark"/></p>
 <p>&nbsp;<img align="right" src="https:
-//github-readme-stats.vercel.app/api?username=zoloypzuo&show_icons=true&locale=en&theme=chartreuse-dark" width="410" /></p>
+//github-readme-stats.vercel.app/api?username=zoloypzuo&show_icons=true&locale=en&theme=chartreuse-dark"width="410" /></p>
 <br><br><br><br><br>
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
