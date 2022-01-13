@@ -9,13 +9,14 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoloypzuo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=zoloypzuo&include_all_commits=true&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark"width="410"/></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoloypzuo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/>
+</p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=zoloypzuo&include_all_commits=true&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark"width="410"/>
+</p>
 <br><br><br><br><br><br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="left">
-<a href="https://www.zhihu.com/people/zoloypzuo"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Zhihu&color=0084FF&logo=Zhihu&logoColor=FFFFFF&label="/></a>
-</p>
 
+<a href="https://www.zhihu.com/people/zoloypzuo"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Zhihu&color=0084FF&logo=Zhihu&logoColor=FFFFFF&label="/></a>
+<a href="https://www.douban.com/people/76425222/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Douban&color=007722&logo=Douban&logoColor=FFFFFF&label="/></a>
