@@ -16,4 +16,12 @@ repos = []
 print("name | description")
 print("---|---")
 for name, desc in repos:
-    print(name, "|", desc)
+    if name and desc:
+        print(name, "|", desc)
+
+print()
+print()
+print()
+for name, desc in repos:
+    if not desc:
+        print(name, "|", "no desc")
