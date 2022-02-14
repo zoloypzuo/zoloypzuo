@@ -33,10 +33,7 @@ ZeloLua | Lua Interpreter with C#
 Sandbox | 《Lua游戏AI开发指南》源码魔改
 cyclone | 《游戏物理引擎开发》源码魔改
 SekiroAI | 只狼AI脚本反解
-DSTScripts | 
-PlayCI | 
+PlayCI | CI/CD Playground
 Resume | 简历
 ZeloLangEngine | 一个极简的语法制导解析器框架
 ZeloPy | Python虚拟机Demo
-ZeloScriptLib | 
-zoloypzuo | 
