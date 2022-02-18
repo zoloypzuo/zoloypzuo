@@ -21,6 +21,7 @@
 <a href="https://www.zhihu.com/people/zoloypzuo"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Zhihu&color=0084FF&logo=Zhihu&logoColor=FFFFFF&label="/></a>
 <a href="https://www.douban.com/people/76425222/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Douban&color=007722&logo=Douban&logoColor=FFFFFF&label="/></a>
 <a href="https://game-programming-bullshit.net/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label="/></a>
+<a href="https://leetcode-cn.com/u/zoloypzuo/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label="/></a>
 
 ### Repos
 
