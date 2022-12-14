@@ -20,8 +20,8 @@
 
 <a href="https://www.zhihu.com/people/zoloypzuo"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Zhihu&color=0084FF&logo=Zhihu&logoColor=FFFFFF&label="/></a>
 <a href="https://www.douban.com/people/76425222/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Douban&color=007722&logo=Douban&logoColor=FFFFFF&label="/></a>
-<a href="https://game-programming-bullshit.net/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label="/></a>
-<a href="https://leetcode-cn.com/u/zoloypzuo/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label="/></a>
+<!-- <a href="https://game-programming-bullshit.net/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label="/></a>
+<a href="https://leetcode-cn.com/u/zoloypzuo/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label="/></a> -->
 
 ### 📔 Repos
 
@@ -34,7 +34,7 @@ ZeloLua | Lua Interpreter with C#
 Sandbox | 《Lua游戏AI开发指南》源码魔改
 cyclone | 《游戏物理引擎开发》源码魔改
 SekiroAI | 只狼AI脚本反解
-PlayCI | CI/CD Playground
-Resume | 简历
+<!-- PlayCI | CI/CD Playground -->
+<!-- Resume | 简历 -->
 ZeloLangEngine | 一个极简的语法制导解析器框架
 ZeloPy | Python虚拟机Demo
